@@ -1,5 +1,62 @@
-## Hi there 👋
+# Hi I'm Diego 👋
+## 🎮 Game Designer | 🎨 Animator | 💻 Programmer
 
+I'm a multidisciplinary game developer passionate about creating engaging gameplay experiences by combining game design, animation, programming, and interactive technologies. I enjoy transforming ideas into playable experiences, building immersive worlds, and developing systems that bring games to life.
+
+### 🎮 Game Design:
+Gameplay mechanics, level design, systems design, prototyping, and player experience.
+### 🎨 Animation & Art:
+3D modeling, 2D/3D character animation, environmental art, and visual storytelling.
+### 💻 Programming: 
+Gameplay, scripting, interactive systems, and technical problem-solving.
+### 🚀 Currently working on: 3D Horror Game 
+### 🌱 Currently learning: 
+WordPress, video editing, and cobol
+### 🤝 Open to: 
+Game development opportunities, collaborations, and creative projects.
+
+---
+##🛠️ Skills & Technologies
+
+### 🎮 Game Design
+- Gameplay Mechanics & Systems Design
+- Level Design & Worldbuilding
+- Game Balancing & Player Progression
+- Game Prototyping & Iteration
+- Narrative Design & Interactive Storytelling
+- User Experience (UX) & Player-Centered Design
+
+### 🎨 Animation & Digital Art
+- 3D Modeling & Asset Creation
+- Character & Object Animation
+- Environment Art & Scene Composition
+- Materials, Texturing & Lighting
+- Visual Storytelling
+- Real-Time Rendering & Interactive Visualization
+
+### 💻 Programming & Development
+- Gameplay Programming
+- Object-Oriented Programming (OOP)
+- Scripting & Automation
+- Interactive Systems & UI Implementation
+- Debugging & Optimization
+- Version Control & Collaborative Development
+---
+## ⚙️ Tools & Technologies
+### Game Engines
+- Unreal Engine
+- Unity
+- Godot
+### Programming Languages
+- C#/C++
+- JavaScript
+- Python
+### 3D, Animation & Creative Software
+- Maya
+- Blender
+- Twinmotion
+- Kita
+- Adobe Creative Suit (After Effect, Premiere, Animate, Photoshop)
 <!--
 **SocialD1saster/SocialD1saster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
